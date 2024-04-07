@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif" align="center" height = "300" width="6000" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3EyYjZkeDM1OWZmdHd6bXQycjFoNGNnbTA5YjZrcDhtcmU4NXFkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" align="center" height = "300" width="1000" >
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
